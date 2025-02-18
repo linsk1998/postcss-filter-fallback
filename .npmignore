@@ -1,0 +1,44 @@
+# 忽略 VSCode 相关文件
+.vscode/
+.editorconfig
+
+# 忽略 IntelliJ IDEA 相关文件
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# 忽略 WebStorm 相关文件
+.webstorm/
+
+# 忽略 Eclipse 相关文件
+.metadata/
+.settings/
+.project
+.classpath
+
+# 忽略 NetBeans 相关文件
+.nbproject/
+
+# 忽略 Sublime Text 相关文件
+.sublime-project
+.sublime-workspace
+
+# 忽略 Atom 相关文件
+.atom/
+
+# 忽略其他常见的临时文件和目录
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.bak
+*.map
+node_modules/
+dist/
+build/
+coverage/
+
+# 忽略测试脚本
+tests/
